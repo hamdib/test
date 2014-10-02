@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         echo 'test';
         
-        echo 'test3';
+        echo 'test2';
         // put your code here
         ?>
     </body>
