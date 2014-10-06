@@ -14,6 +14,7 @@ and open the template in the editor.
         echo 'test0s1';
         
         echo 'test0 2';
+        echo 'test 3';
         // put your code here
         ?>
     </body>
