@@ -7,11 +7,11 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>git</title>
     </head>
     <body>
         <?php
-        echo 'test';
+        echo 'test1';
         
         echo 'test2';
         // put your code here
